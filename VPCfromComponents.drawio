@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-06-15T16:50:00.365Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rAkc9VqUp81F7Bn1gMZC" version="20.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-06-15T16:50:44.587Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="uT0wjWtDHvkXxprlJiek" version="20.0.1" type="github">
   <diagram id="Qfw5KqlO8cd22jr_XHpM" name="Page-1">
     <mxGraphModel dx="1716" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -72,9 +72,6 @@
               <mxPoint x="100" y="190" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Y3sowy7IP2VFvMppziy5-9" value="ANOTHER DRAWING WITH EC2 INSTANCES AND ROUTING" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;fontColor=#0000FF;" vertex="1" parent="1">
-          <mxGeometry x="320" y="720" width="100" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
