@@ -1,6 +1,6 @@
 # AWS VPC from components
 
-![VPCfromComp](https://user-images.githubusercontent.com/49696513/173882736-081d2692-e93a-427a-9c56-38d3a61f16c0.png)
+![VPCfromComp](https://user-images.githubusercontent.com/49696513/174084201-312c0b98-d43a-41c3-bda3-4197cfe15d28.png)
 
 ## Building an Amazon Virtual Private Cloud component by component
 
